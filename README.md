@@ -1,1 +1,1 @@
-summary Stat_book/summary.py
+summary <Stat_book/summary.py>
